@@ -63,7 +63,6 @@
       <import plugin="org.eclipse.e4.ui.services"/>
       <import plugin="org.eclipse.e4.ui.widgets"/>
       <import plugin="org.eclipse.e4.ui.workbench"/>
-      <import plugin="org.eclipse.core.runtime.compatibility"/>
       <import plugin="org.eclipse.osgi.services"/>
       <import plugin="org.eclipse.ui.trace"/>
       <import feature="org.eclipse.rcp"/>

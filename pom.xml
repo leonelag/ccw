@@ -31,7 +31,7 @@
         </profiles>
 
         <properties>
-                <tycho-version>0.23.1</tycho-version>
+                <tycho-version>1.4.0</tycho-version>
                 <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         </properties>
 
@@ -53,7 +53,7 @@
                 </repository>
                 <repository>
                         <id>swtbot</id>
-                        <url>http://download.eclipse.org/technology/swtbot/releases/2.4.0/</url>
+                        <url>http://download.eclipse.org/technology/swtbot/releases/2.8.0/</url>
                         <layout>p2</layout>
                 </repository>
                 <repository>
@@ -62,8 +62,8 @@
                         <layout>p2</layout>
                 </repository>
                 <repository>
-                        <id>mars</id>
-                        <url>http://download.eclipse.org/releases/mars</url>
+                        <id>2019-09</id>
+                        <url>https://download.eclipse.org/releases/2019-09/</url>
                         <layout>p2</layout>
                 </repository>
                 <!--repository>
@@ -73,7 +73,7 @@
                 </repository-->
                 <repository>
                         <id>emp-eclipse-market-place</id>
-                        <url>http://download.eclipse.org/mpc/luna/</url>
+                        <url>http://download.eclipse.org/mpc/2019-03/</url>
                         <layout>p2</layout>
                 </repository>
                 <repository>
@@ -83,7 +83,7 @@
                 </repository>
                 <repository>
                         <id>orbit</id>
-                        <url>http://download.eclipse.org/tools/orbit/downloads/drops/R20130827064939/repository</url>
+                        <url>https://download.eclipse.org/tools/orbit/downloads/drops/R20190827152740/repository</url>
                         <layout>p2</layout>
                 </repository>
                 <!--repository>
@@ -98,10 +98,9 @@
                 </repository-->
                 <repository>
                         <id>ansi-econsole</id>
-                        <url>http://www.nodeclipse.org/updates</url>
+                        <url>http://www.mihai-nita.net/eclipse/</url>
                         <layout>p2</layout>
                 </repository>
-
         </repositories>
 
         <build>
