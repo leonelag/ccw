@@ -49,21 +49,21 @@
         <repositories>
                 <repository>
                         <id>clojars.org</id>
-                        <url>http://clojars.org/repo</url>
+                        <url>https://clojars.org/repo</url>
                 </repository>
                 <repository>
                         <id>swtbot</id>
-                        <url>http://download.eclipse.org/technology/swtbot/releases/2.8.0/</url>
+                        <url>https://download.eclipse.org/technology/swtbot/releases/2.8.0/</url>
                         <layout>p2</layout>
                 </repository>
                 <repository>
                         <id>eclipse-color-theme</id>
-                        <url>http://eclipse-color-theme.github.io/update/</url>
+                        <url>https://eclipse-color-theme.github.io/update/</url>
                         <layout>p2</layout>
                 </repository>
                 <repository>
                         <id>2019-09</id>
-                        <url>http://download.eclipse.org/releases/2019-09</url>
+                        <url>https://download.eclipse.org/releases/2019-09/</url>
                         <layout>p2</layout>
                 </repository>
                 <!--repository>
@@ -73,12 +73,12 @@
                 </repository-->
                 <repository>
                         <id>emp-eclipse-market-place</id>
-                        <url>http://download.eclipse.org/mpc/2019-03/</url>
+                        <url>https://download.eclipse.org/mpc/2019-03/</url>
                         <layout>p2</layout>
                 </repository>
                 <repository>
                         <id>egit</id>
-                        <url>http://download.eclipse.org/egit/updates/</url>
+                        <url>https://download.eclipse.org/egit/updates/</url>
                         <layout>p2</layout>
                 </repository>
                 <repository>
@@ -98,7 +98,7 @@
                 </repository-->
                 <repository>
                         <id>ansi-econsole</id>
-                        <url>http://www.mihai-nita.net/eclipse/</url>
+                        <url>https://www.mihai-nita.net/eclipse/</url>
                         <layout>p2</layout>
                 </repository>
 
