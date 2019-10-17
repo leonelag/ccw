@@ -3427,13 +3427,6 @@
       </startup>
    </extension>
    <extension
-         point="org.eclipse.e4.languages">
-      <language
-            contributionFactory="ccw.util.ClojureContributionFactorySpi"
-            name="clojure">
-      </language>
-   </extension>
-   <extension
          id="id2"
          point="org.eclipse.e4.workbench.model">
       <processor
